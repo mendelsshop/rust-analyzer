@@ -146,6 +146,7 @@ mod handlers {
     mod extract_function;
     mod extract_module;
     mod extract_struct_from_enum_variant;
+    mod extract_struct_from_function_signature;
     mod extract_type_alias;
     mod extract_variable;
     mod fix_visibility;
